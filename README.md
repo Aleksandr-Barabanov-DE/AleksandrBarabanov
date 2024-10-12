@@ -9,3 +9,10 @@
 ## About Me
 
 I'm a dedicated Frontend Developer with over two years of hands-on experience in user interface development and more than a decade in the digital space.
+
+## Skills & Technologies
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: React (currently learning), Node.js (currently learning)
+- **Tools**: Figma, GSAP, GitHub, Git Bash, Webpack, Gulp
+- **API Management**: RESTful APIs
+- **Principles**: DRY (Don't Repeat Yourself), KISS (Keep It Simple, "Stupid")): 
