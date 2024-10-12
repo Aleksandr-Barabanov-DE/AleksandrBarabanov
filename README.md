@@ -43,12 +43,18 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
 
 ## Contacts
 
-## Contacts
-
-|  |  |  |
-|--|--|--|
-| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-barabanov/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barabanov.codes@gmail.com) | [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-notifcenter) |
-|  |  |  |
-| [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Aleksandr-Barabanov) |  |  |
-
+<div>
+  <a href="https://www.linkedin.com/in/aleksandr-barabanov/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:barabanov.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-notifcenter">
+    <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed"/>
+  </a>
+  <a href="https://www.codewars.com/users/Aleksandr-Barabanov">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
+  </a>
+</div>
 
