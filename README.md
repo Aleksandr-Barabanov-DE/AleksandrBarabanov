@@ -1,2 +1,2 @@
-# Aleksandr Barabanov
+# Aleksandr Barabanov   <a href="https://www.codewars.com/users/Aleksandr-Barabanov" target="_blank">
 <img src="https://github.com/Aleksandr-Barabanov-DE/AleksandrBarabanov/blob/main/hero-section.jpg" alt="Hero section slogan" width="1200"/>
