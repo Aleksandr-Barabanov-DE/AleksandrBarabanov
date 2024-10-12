@@ -28,7 +28,7 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
 ## Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Notable Projects
+## Notable Projects
 - **[CryptoTracker](https://github.com/Aleksandr-Barabanov-DE/crypto-tracker-API)**: Developed a real-time cryptocurrency tracking application, implementing APIs for dynamic data retrieval.
   
 - **[Stellar Burgers](https://github.com/Aleksandr-Barabanov-DE/stellar-burgers)**: Created a fully functional burger ordering application using React and TypeScript to improve type safety and maintainability. This project employed Object-Oriented Programming (OOP) principles to develop reusable components and efficiently manage application state. Implemented a responsive design to ensure optimal user experience across various devices, complemented by smooth animations using GSAP. The modular architecture facilitated improved code readability and maintainability while integrating RESTful APIs for dynamic data handling.
