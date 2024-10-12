@@ -43,19 +43,12 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
 
 ## Contacts
 
-<div style="display: inline-block; margin-right: 10px;">
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-barabanov/)
-</div>
+## Contacts
 
-<div style="display: inline-block; margin-right: 10px;">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barabanov.codes@gmail.com)
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-barabanov/) &nbsp;&nbsp;
 
-<div style="display: inline-block; margin-right: 10px;">
-  [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-notifcenter)
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barabanov.codes@gmail.com) &nbsp;&nbsp;
 
-<div style="display: inline-block;">
-  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Aleksandr-Barabanov)
-</div>
+[![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-notifcenter) &nbsp;&nbsp;
 
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Aleksandr-Barabanov)
