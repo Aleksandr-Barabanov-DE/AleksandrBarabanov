@@ -41,4 +41,4 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
   - **Responsive Design**: Ensures a seamless experience across devices, including desktops, tablets, and mobile phones.  
   **Technologies Used**: HTML5, CSS3 (with Flexbox), JavaScript (with ES6 features), Node.js, Express, and MongoDB for backend and database storage.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/aleksandr-barabanov/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-barabanov/)
