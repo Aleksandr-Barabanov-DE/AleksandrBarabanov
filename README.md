@@ -15,4 +15,4 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
 - **Frameworks**: React (currently learning), Node.js (currently learning)
 - **Tools**: Figma, GSAP, GitHub, Git Bash, Webpack, Gulp
 - **API Management**: RESTful APIs
-- **Principles**: DRY (Don't Repeat Yourself), KISS (Keep It Simple, "Stupid")): 
+- **Principles**: DRY (Don't Repeat Yourself), KISS (Keep It Simple, "Stupid")), YAGNI (You Aren't Gonna Need It)**
