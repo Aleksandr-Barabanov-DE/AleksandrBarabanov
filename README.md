@@ -41,11 +41,21 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
   - **Responsive Design**: Ensures a seamless experience across devices, including desktops, tablets, and mobile phones.  
   **Technologies Used**: HTML5, CSS3 (with Flexbox), JavaScript (with ES6 features), Node.js, Express, and MongoDB for backend and database storage.
 
-  ## Contacts
+## Contacts
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-barabanov/)
+<div style="display: inline-block; margin-right: 10px;">
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-barabanov/)
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barabanov.codes@gmail.com)
+<div style="display: inline-block; margin-right: 10px;">
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barabanov.codes@gmail.com)
+</div>
 
-[![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-notifcenter)
+<div style="display: inline-block; margin-right: 10px;">
+  [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-notifcenter)
+</div>
+
+<div style="display: inline-block;">
+  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Aleksandr-Barabanov)
+</div>
 
