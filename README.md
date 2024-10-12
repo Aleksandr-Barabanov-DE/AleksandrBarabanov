@@ -8,4 +8,4 @@
 
 ## About Me
 
-I'm **Aleksandr Barabanov**, a dedicated Frontend Developer with over two years of hands-on experience in user interface development and more than a decade in the digital space.
+I'm a dedicated Frontend Developer with over two years of hands-on experience in user interface development and more than a decade in the digital space.
