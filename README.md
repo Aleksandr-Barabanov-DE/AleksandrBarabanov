@@ -31,8 +31,8 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
 ### Notable Projects
 - **CryptoTracker**: Developed a real-time cryptocurrency tracking application, implementing APIs for dynamic data retrieval.
 - **Stellar Burgers**: Created a fully functional burger ordering application using React and TypeScript to improve type safety and maintainability. This project employed Object-Oriented Programming (OOP) principles to develop reusable components and efficiently manage application state. I implemented a responsive design to ensure optimal user experience across various devices, complemented by smooth animations using GSAP. The modular architecture facilitated improved code readability and maintainability while integrating RESTful APIs for dynamic data handling.
-- **Mesto: Developed a dynamic web application for sharing and discovering beautiful photos. Users can upload images, create their own photo cards, and interact with others by liking and commenting on their favorite photos. The application features a clean and intuitive interface for easy navigation.
-Key Features:
+- **Mesto**: Developed a dynamic web application for sharing and discovering beautiful photos. Users can upload images, create their own photo cards, and interact with others by liking and commenting on their favorite photos. The application features a clean and intuitive interface for easy navigation.
+**Key Features:
 User Profiles: Each user has a personal profile to view uploaded photos and manage account information.
 Photo Cards: Users can create, edit, and delete their photo cards, each displaying an image, title, and description.
 Like and Comment System: Encourages community interaction through likes and comments on photos.
