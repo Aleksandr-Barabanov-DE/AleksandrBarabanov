@@ -5,3 +5,7 @@
 <h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a>
  
 ## Welcome to my GitHub profile! Here you can find my projects and contributions.
+
+## About Me
+
+I'm **Aleksandr Barabanov**, a dedicated Frontend Developer with over two years of hands-on experience in user interface development and more than a decade in the digital space.
