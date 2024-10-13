@@ -18,6 +18,21 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
 - **API Management**: RESTful APIs
 - **Principles**: DRY (Don't Repeat Yourself), KISS (Keep It Simple, "Stupid")), YAGNI (You Aren't Gonna Need It)
 
+
+## Goals
+
+- **Short-term Goals**:
+  - Master **React** and **Node.js** to become proficient in full-stack development.
+  - Improve skills in **TypeScript** to build more scalable and maintainable applications.
+  - Complete a **Redux** course to handle more complex state management.
+  - Contribute to open-source projects related to **UI/UX design** and **JavaScript frameworks**.
+
+- **Long-term Goals**:
+  - Transition into a full-stack developer role, specializing in **JavaScript** ecosystems.
+  - Deepen expertise in **UI/UX animations** using **GSAP** and **Figma** to create more engaging user experiences.
+  - Work on larger commercial projects that involve **API integration**, **real-time data processing**, and **high scalability**.
+  - Continue contributing to **open-source** projects and expanding my network in the developer community.
+
 ## Experience
 
 - **Frontend Development**: Completed a professional course in Frontend Development at **Yandex Practicum**.
