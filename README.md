@@ -12,13 +12,41 @@ I'm a dedicated Frontend Developer with over two years of hands-on experience in
 
 ## Skills & Technologies
 
-- **Languages**: ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-blue) (learning) ![Node.js](https://img.shields.io/badge/-Node.js-green) (learning)
-- **Tools**: Figma, GSAP, GitHub, Git Bash, Webpack, Gulp
-- **API Management**: RESTful APIs
-- **Principles**: DRY (Don't Repeat Yourself), KISS (Keep It Simple, "Stupid")), YAGNI (You Aren't Gonna Need It)
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+</p>
 
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
+</p>
+
+### API Management
+<p>
+  <img src="https://img.shields.io/badge/-RESTful APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="API"/>
+</p>
+
+### Principles
+<p>
+  <img src="https://img.shields.io/badge/-DRY-FFA500?style=for-the-badge&logo=devicon&logoColor=white" alt="DRY"/>
+  <img src="https://img.shields.io/badge/-KISS-FF6347?style=for-the-badge&logo=devicon&logoColor=white" alt="KISS"/>
+  <img src="https://img.shields.io/badge/-YAGNI-4682B4?style=for-the-badge&logo=devicon&logoColor=white" alt="YAGNI"/>
+</p>
 ## Goals
 
 - **Short-term Goals**:
