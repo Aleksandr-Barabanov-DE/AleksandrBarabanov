@@ -11,8 +11,9 @@
 I'm a dedicated Frontend Developer with over two years of hands-on experience in user interface development and more than a decade in the digital space.
 
 ## Skills & Technologies
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: React (currently learning), Node.js (currently learning)
+
+- **Languages**: ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-blue) (learning) ![Node.js](https://img.shields.io/badge/-Node.js-green) (learning)
 - **Tools**: Figma, GSAP, GitHub, Git Bash, Webpack, Gulp
 - **API Management**: RESTful APIs
 - **Principles**: DRY (Don't Repeat Yourself), KISS (Keep It Simple, "Stupid")), YAGNI (You Aren't Gonna Need It)
